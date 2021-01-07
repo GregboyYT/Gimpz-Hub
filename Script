@@ -812,7 +812,7 @@ local function JKQZGF_fake_script() -- LoginButton.LoginScript
 		wait(time)
 		script.Parent.Parent.STATUS.Text = "STATUS: Verifying User.."
 		wait(time)
-		script.Parent.Parent.STATUS.Text = "STATUS: Successfully Verified User.."
+		script.Parent.Parent.STATUS.Text = "STATUS: Successfully VERIFIED User.."
 		wait(time)
 		script.Parent.Parent.STATUS.Text = "STATUS: Loading Gimpz Hub..!"
 		wait(time)
