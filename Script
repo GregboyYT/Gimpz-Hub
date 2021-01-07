@@ -789,7 +789,7 @@ local function XHMGN_fake_script() -- LoginButton.LoginScript
 		wait(0.7)
 		script.Parent.Parent.STATUS.Text = "STATUS: Successfully Verified User.."
 		wait(0.7)
-		script.Parent.Parent.STATUS.Text = "STATUS: Loading Gimpz Hub!"
+		script.Parent.Parent.STATUS.Text = "STATUS: Loading Gimpz Hub.."
 		wait(0.7)
 		script.Parent.Parent.STATUS.Text = "STATUS: Welcome to Gimpz Hub!"
 		wait(0.7)
