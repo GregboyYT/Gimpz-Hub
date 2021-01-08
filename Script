@@ -1129,7 +1129,7 @@ coroutine.wrap(VFULJ_fake_script)()
 local function LJKIDK_fake_script() -- LoginButton.LoginScript 
 	local script = Instance.new('LocalScript', LoginButton)
 
-	local updated = false
+	local updated = true
 	local time = 0.6
 	
 	script.Parent.MouseButton1Click:Connect(function(Player)
